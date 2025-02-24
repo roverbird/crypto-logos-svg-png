@@ -1,0 +1,570 @@
+Bitcoin	BTC
+Ethereum	ETH
+XRP	XRP
+Tether USDt	USDT
+Solana	SOL
+BNB	BNB
+Dogecoin	DOGE
+Cardano	ADA
+USDC	USDC
+TRON	TRX
+Avalanche	AVAX
+Shiba Inu	SHIB
+Toncoin	TON
+Polkadot	DOT
+Chainlink	LINK
+Stellar	XLM
+Sui	SUI
+Bitcoin Cash	BCH
+Hedera	HBAR
+Litecoin	LTC
+NEAR Protocol	NEAR
+Uniswap	UNI
+Pepe	PEPE
+UNUS SED LEO	LEO
+Aptos	APT
+Internet Computer	ICP
+Cronos	CRO
+VeChain	VET
+Ethereum Classic	ETC
+Dai	DAI
+Bittensor	TAO
+Artificial Superintelligence Alliance	FET
+Ethena USDe	USDe
+Filecoin	FIL
+Arbitrum	ARB
+Stacks	STX
+Kaspa	KAS
+Algorand	ALGO
+Cosmos	ATOM
+Aave	AAVE
+Mantle	MNT
+Celestia	TIA
+MANTRA	OM
+Monero	XMR
+Immutable	IMX
+Fantom	FTM
+OKB	OKB
+Injective	INJ
+dogwifhat	WIF
+The Graph	GRT
+Optimism	OP
+Bonk	BONK
+Theta Network	THETA
+Sei	SEI
+Worldcoin	WLD
+Ethena	ENA
+JasmyCoin	JASMY
+Bitget Token	BGB
+THORChain	RUNE
+Ondo	ONDO
+FLOKI	FLOKI
+The Sandbox	SAND
+Gala	GALA
+EOS	EOS
+Brett (Based)	BRETT
+Kaia	KAIA
+Maker	MKR
+Lido DAO	LDO
+Pyth Network	PYTH
+Flow	FLOW
+First Digital USD	FDUSD
+Jupiter	JUP
+Arweave	AR
+Flare	FLR
+Quant	QNT
+Tezos	XTZ
+Virtuals Protocol	VIRTUAL
+Starknet	STRK
+IOTA	IOTA
+Bitcoin SV	BSV
+KuCoin Token	KCS
+Beam	BEAM
+MultiversX	EGLD
+Decentraland	MANA
+Neo	NEO
+Core	CORE
+Raydium	RAY
+Axie Infinity	AXS
+Helium	HNT
+ApeCoin	APE
+Ethereum Name Service	ENS
+Polygon	MATIC
+Curve DAO Token	CRV
+Popcat (SOL)	POPCAT
+AIOZ Network	AIOZ
+FTX Token	FTT
+dYdX (Native)	DYDX
+Zcash	ZEC
+Conflux	CFX
+PancakeSwap	CAKE
+Akash Network	AKT
+eCash	XEC
+Mina	MINA
+Wormhole	W
+Pendle	PENDLE
+Compound	COMP
+Reserve Rights	RSR
+ORDI	ORDI
+Synthetix	SNX
+Nexo	NEXO
+Terra Classic	LUNC
+Oasis	ROSE
+Amp	AMP
+SuperVerse	SUPER
+cat in a dogs world	MEW
+Ronin	RON
+EigenLayer	EIGEN
+Goatseus Maximus	GOAT
+Kava	KAVA
+Nervos Network	CKB
+Dash	DASH
+Gnosis	GNO
+USDD	USDD
+1inch Network	1INCH
+Kusama	KSM
+APENFT	NFT
+BOOK OF MEME	BOME
+Livepeer	LPT
+Bitcoin Gold	BTG
+Enjin Coin	ENJ
+WOO	WOO
+Astar	ASTR
+Convex Finance	CVX
+Holo	HOT
+Zilliqa	ZIL
+Tether Gold	XAUt
+SATS (Ordinals)	SATS
+Theta Fuel	TFUEL
+Celo	CELO
+ether.fi	ETHFI
+IoTeX	IOTX
+0x Protocol	ZRX
+Memecoin	MEME
+Echelon Prime	PRIME
+SPACE ID	ID
+Ankr	ANKR
+JUST	JST
+Golem	GLM
+EthereumPoW	ETHW
+Qtum	QTUM
+PAX Gold	PAXG
+Kadena	KDA
+Basic Attention Token	BAT
+Osmosis	OSMO
+PayPal USD	PYUSD
+Aevo	AEVO
+TrueUSD	TUSD
+Ravencoin	RVN
+Harmony	ONE
+OriginTrail	TRAC
+Siacoin	SC
+aelf	ELF
+Chia	XCH
+Gas	GAS
+Altlayer	ALT
+Loopring	LRC
+Zeebu	ZBU
+Telcoin	TEL
+Frax	FRAX
+VerusCoin	VRSC
+DOGS	DOGS
+Mask Network	MASK
+SafePal	SFP
+Metis	METIS
+Frax Share	FXS
+Baby Doge Coin	BabyDoge
+Biconomy	BICO
+SushiSwap	SUSHI
+XYO	XYO
+yearn.finance	YFI
+Threshold	T
+Decred	DCR
+Rocket Pool	RPL
+VeThor Token	VTHO
+Simon's Cat	CAT
+Moonbeam	GLMR
+UMA	UMA
+NEM	XEM
+Band Protocol	BAND
+DigiByte	DGB
+MimbleWimbleCoin	MWC
+COTI	COTI
+Flux	FLUX
+Ontology	ONT
+Alchemy Pay	ACH
+Tribe	TRIBE
+Verge	XVG
+Ponke	PONKE
+Waves	WAVES
+Nano	XNO
+ICON	ICX
+Storj	STORJ
+Casper	CSPR
+Status	SNT
+Degen	DEGEN
+BinaryX	BNX
+Open Campus	EDU
+Tellor	TRB
+WAX	WAXP
+Coin98	C98
+Lisk	LSK
+Centrifuge	CFG
+IOST	IOST
+Smooth Love Potion	SLP
+Balancer	BAL
+API3	API3
+Keep Network	KEEP
+Osaka Protocol	OSAK
+Orca	ORCA
+iExec RLC	RLC
+Secret	SCRT
+Cartesi	CTSI
+Huobi Token	HT
+Dent	DENT
+Powerledger	POWR
+Numeraire	NMR
+Treasure	MAGIC
+Arcblock	ABT
+Civic	CVC
+Oraichain	ORAI
+Symbol	XYM
+Moonriver	MOVR
+Liquity	LQTY
+Ergo	ERG
+Hive	HIVE
+Propy	PRO
+MVL	MVL
+Kyber Network Crystal v2	KNC
+Rootstock Infrastructure Framework	RIF
+Nakamoto Games	NAKA
+Bone ShibaSwap	BONE
+Cortex	CTXC
+Steem	STEEM
+Ark	ARK
+Orchid	OXT
+Braintrust	BTRST
+Syscoin	SYS
+Metal DAO	MTL
+Dogelon Mars	ELON
+CoW Protocol	COW
+MediBloc	MED
+STASIS EURO	EURS
+MiL.k	MLK
+Ardor	ARDR
+Orbs	ORBS
+BakeryToken	BAKE
+Stella	ALPHA
+Aragon	ANT
+Request	REQ
+Gitcoin	GTC
+Origin Protocol	OGN
+ARPA	ARPA
+Bancor	BNT
+NKN	NKN
+Wen	WEN
+LTO Network	LTO
+Loom Network	LOOM
+Pax Dollar	USDP
+Pocket Network	POKT
+QuarkChain	QKC
+Tornado Cash	TORN
+OMG Network	OMG
+Bluzelle	BLZ
+Electroneum	ETN
+Decentralized Social	DESO
+Bifrost	BFC
+Perpetual Protocol	PERP
+Uquid Coin	UQC
+district0x	DNT
+RARI	RARI
+Elastos	ELA
+Function X	FX
+Metadium	META
+BUSD	BUSD
+Gemini Dollar	GUSD
+Euler	EUL
+NULS	NULS
+Streamr	DATA
+Klever Coin	KLV
+Wanchain	WAN
+Enzyme	MLN
+Energy Web Token	EWT
+Steem Dollars	SBD
+Pirate Chain	ARRR
+Biswap	BSW
+Everscale	EVER
+Komodo	KMD
+Agoras: Tau Net	AGRS
+Polymath	POLY
+Ultra	UOS
+Hacken Token	HAI
+IDEX	IDEX
+PolySwarm	NCT
+Groestlcoin	GRS
+Ren	REN
+Kin	KIN
+Aleph.im	ALEPH
+xMoney	UTK
+Velas	VLX
+RAMP	RAMP
+XPR Network	XPR
+Alpaca Finance	ALPACA
+Measurable Data Token	MDT
+Cream Finance	CREAM
+Ampleforth	AMPL
+PlayDapp	PDA
+Wing Finance	WING
+Mango	MNGO
+AdEx	ADX
+Nimiq	NIM
+PARSIQ	PRQ
+PIVX	PIVX
+Beefy	BIFI
+WhiteCoin	XWC
+Reserve Dollar	RSV
+Shapeshift FOX Token	FOX
+Vectorspace AI	VXV
+Kaon	AKRO
+MonaCoin	MONA
+Phantasma	SOUL
+Pluton	PLU
+Quantum Resistant Ledger	QRL
+AirSwap	AST
+DeepBrain Chain	DBC
+VITE	VITE
+Diamond	DMD
+IRISnet	IRIS
+Moonchain	MXC
+Counterparty	XCP
+Bitcoin Diamond	BCD
+Namecoin	NMC
+Kleros	PNK
+Æternity	AE
+CENNZnet	CENNZ
+Dragonchain	DRGN
+DeFiChain	DFI
+BitShares	BTS
+BarnBridge	BOND
+Handshake	HNS
+Peercoin	PPC
+ColossusXT	COLX
+Beam	BEAM
+Origin DeFi Governance	OGV
+Serum	SRM
+Metahero	HERO
+Celsius	CEL
+HUSD	HUSD
+LATOKEN	LA
+BytomDAO	BTM
+Presearch	PRE
+Banano	BAN
+Bytecoin	BCN
+Wownero	WOW
+Augur	REP
+Fei USD	FEI
+ABBC Coin	ABBC
+Obyte	GBYTE
+Origin Dollar	OUSD
+OAX	OAX
+Idle	IDLE
+PowerPool	CVP
+Divi	DIVI
+Mysterium	MYST
+LBRY Credits	LBC
+Grin	GRIN
+Fusion	FSN
+Gifto	GFT
+BitForex Token	BF
+DogeBonk	DOBO
+Litecoin Cash	LCC
+YooShi	YOOSHI
+Vertcoin	VTC
+Carbon Protocol	SWTH
+ShibaDoge	SHIBDOGE
+NEST Protocol	NEST
+Ignis	IGNIS
+Waltonchain	WTC
+saffron.finance	SFI
+Populous	PPT
+Vesper	VSP
+Mirror Protocol	MIR
+SENSO	SENSO
+Apollo Currency	APL
+DinoLFG	DINO
+Particl	PART
+v.systems	VSYS
+Dock	DOCK
+ChainX	PCX
+Feathercoin	FTC
+Tokes	TKS
+Primecoin	XPM
+Revain	REV
+TenX	PAY
+BitCore	BTX
+Crypterium	CRPT
+SORA	XOR
+Pillar	PLR
+Hakka.Finance	HAKKA
+Monetha	MTH
+DerivaDAO	DDX
+Bitgesell	BGL
+HyperCash	HC
+Safe Haven	SHA
+SALT	SALT
+CloakCoin	CLOAK
+BitcoinZ	BTCZ
+Rook	ROOK
+WaykiChain	WICC
+Aurora	AOA
+XTRABYTES	XBY
+Lympo	LYM
+DomRaider	DRT
+ZClassic	ZCL
+Sumokoin	SUMO
+Dentacoin	DCN
+pNetwork	PNT
+Strong	STRONG
+Hyperblox	HPB
+PERL.eco	PERL
+Hord	HORD
+SONM (BEP	20)	SNM
+Hush	HUSH
+88mph	MPH
+Golos Blockchain	GLS
+Mithril	MITH
+Digital Reserve Currency	DRC
+GameCredits	GAME
+Ruff	RUFF
+Bitcoin Plus	XBC
+Veil	VEIL
+CyberVein	CVT
+Neblio	NEBL
+TemDAO	TEM
+Zelwin	ZLW
+SnowSwap	SNOW
+TrezarCoin	TZC
+suterusu	SUTER
+SmartCash	SMART
+Pascal	PASC
+Polis	POLIS
+Haven Protocol	XHV
+Tokenbox	TBX
+Chimpion	BNANA
+STAKE	STAKE
+peaq	PEAQ
+Frax Finance 	 Frax Ether	FRXETH
+Ocean Protocol	OCEAN
+BitDAO	BIT
+HEX	HEX
+Mixin	XIN
+Stratis [Old]	STRAX
+Klaytn	KLAY
+SingularityNET	AGIX
+JUNO	JUNO
+Autonio	NIOX
+Saber	SBR
+Octopus Network	OCT
+Newton	NEW
+DeGate	DG
+Ryo Currency	RYO
+Navcoin	NAV
+Frax Price Index Share	FPIS
+XMax	XMX
+Metaverse ETP	ETP
+NAGA	NGC
+Coinmetro Token	XCM
+ThoreCoin	THR
+Covalent	CQT
+NuCypher	NU
+ION	ION
+Davos.xyz USD	DUSD
+PotCoin	POT
+Gamma	GAMMA
+Santiment Network Token	SAN
+BitTorrent	BTTOLD
+Nexus	NXS
+Moeda Loyalty Points	MDA
+Nebulas	NAS
+Raiden Network Token	RDN
+MELD	MELD
+CATCOIN	CATS
+EthicHub	ETHIX
+Credits	CS
+Trinity Network Credit	TNC
+PooCoin	POOCOIN
+Pendulum	PEN
+Bottos	BTO
+Pearl	PEARL
+Etherparty	FUEL
+Omni	OMNI
+Ripio Credit Network	RCN
+Kambria	KAT
+NoLimitCoin	NLC
+BlackCoin	BLK
+LikeCoin	LIKE
+Cindicator	CND
+Anyswap	ANY
+Wagerr	WGR
+Bounty0x	BNTY
+Torex	TOR
+Aion	AION
+ReddCoin	RDD
+Skycoin	SKY
+Ink	INK
+MediShares	MDS
+Tokenomy	TEN
+SIRIN LABS Token	SRN
+OST	OST
+TurtleCoin	TRTL
+MONNOS	MNS
+Okcash	OK
+Origin Ether	OETH
+HedgeTrade	HEDG
+Bibox Token	BIX
+TERA	TERA
+Achain	ACT
+Substratum	SUB
+Bean Cash	BITB
+Crown	CRW
+Pundi X (Old)	NPXS
+Merge	MERGE
+MaidSafeCoin	MAID
+DigitalNote	XDN
+VIBE	VIBE
+Bankera V2	BNK
+Bread	BRD
+Nxt	NXT
+Bela	BELA
+Startcoin	START
+Clams	CLAM
+Viacoin	VIA
+Emercoin	EMC
+Blocknet	BLOCK
+SIBCoin	SIB
+SaluS	SLS
+AllSafe	ASAFE
+Wings	WINGS
+Swarm City	SWT
+Lunyr	LUN
+Monolith	TKN
+Aidos Kuneen	ADK
+Patientory	PTOY
+Veritaseum	VERI
+GXChain	GXC
+Polybius	PLBT
+Agrello	DLT
+Cobinhood	COB
+Everex	EVX
+Enigma	ENG
+Paypex	PAYX
+QASH	QASH
+Neumark	NEU
+DMarket	DMT
+Global Social Chain	GSC
+Seele	N	SEELE
+KanadeCoin	KNDC
+Karatgold Coin	KBC
+PumaPay	PMA
+CoinLoan	CLT
+Frax Price Index	FPI
